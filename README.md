@@ -7,3 +7,6 @@ Codes here are modified based those in the book 'Machine Learning IN ACTION'.
 
 
 * [id3Tree.py](https://github.com/xiaeryu/Machine-Learning/blob/master/id3Tree.py): ID3 tree classification with Python
+
+
+* [naiveBayes.py](https://github.com/xiaeryu/Machine-Learning/blob/master/naiveBayes.py): naive Bayes classification with Python
