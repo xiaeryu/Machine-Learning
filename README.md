@@ -11,3 +11,6 @@ The Python codes here are modified based those in the book **'Machine Learning I
 
 
 * [naiveBayes.py](https://github.com/xiaeryu/Machine-Learning/blob/master/naiveBayes.py): naive Bayes classification with Python
+
+
+* [logitsitcRegression.py](https://github.com/xiaeryu/Machine-Learning/blob/master/logitsitcRegression.py): logistic regression with Python
