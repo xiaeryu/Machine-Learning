@@ -17,3 +17,7 @@ The Python codes here are modified based those in the book **'Machine Learning I
 
 
 * [adaboost.py](https://github.com/xiaeryu/Machine-Learning/blob/master/adaboost.py): adaboost with Python
+
+
+* [linearRegression.py](https://github.com/xiaeryu/Machine-Learning/blob/master/linearRegression.py): linear regression with Python.  
+ Included are: standard linear regression, local weight linear regression, ridge regression, and the forward stagewise regression.
