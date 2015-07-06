@@ -14,3 +14,6 @@ The Python codes here are modified based those in the book **'Machine Learning I
 
 
 * [logitsitcRegression.py](https://github.com/xiaeryu/Machine-Learning/blob/master/logitsitcRegression.py): logistic regression with Python
+
+
+* [adaboost.py](https://github.com/xiaeryu/Machine-Learning/blob/master/adaboost.py): adaboost with Python
