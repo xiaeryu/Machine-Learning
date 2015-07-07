@@ -21,3 +21,7 @@ The Python codes here are modified based those in the book **'Machine Learning I
 
 * [linearRegression.py](https://github.com/xiaeryu/Machine-Learning/blob/master/linearRegression.py): linear regression with Python.  
  Included are: standard linear regression, local weight linear regression, ridge regression, and the forward stagewise regression.
+
+
+* [regTree.py](https://github.com/xiaeryu/Machine-Learning/blob/master/regTree.py): regression tree with Python  
+ Mainly discussed tree-based regression, the CART algorithm. Included are regressoin trees and model trees.
