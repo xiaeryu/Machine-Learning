@@ -23,5 +23,10 @@ The Python codes here are modified based those in the book **'Machine Learning I
  Included are: standard linear regression, local weight linear regression, ridge regression, and the forward stagewise regression.
 
 
+* [kMeans.py](https://github.com/xiaeryu/Machine-Learning/blob/master/kMeans.py): K-means with Python  
+ Included are: K-means and bisecting K-means  
+ [kMeans.r](https://github.com/xiaeryu/Machine-Learning/blob/master/kMeans.r): K-means with R
+
+
 * [regTree.py](https://github.com/xiaeryu/Machine-Learning/blob/master/regTree.py): regression tree with Python  
  Mainly discussed tree-based regression, the CART algorithm. Included are regressoin trees and model trees.
