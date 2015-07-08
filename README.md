@@ -33,3 +33,6 @@ The Python codes here are modified based those in the book **'Machine Learning I
 
 
 * [apriori.py](https://github.com/xiaeryu/Machine-Learning/blob/master/apriori.py): Apriori for frequent itemset idetification and association analysis with Python
+
+
+* [fpGrowth.py](https://github.com/xiaeryu/Machine-Learning/blob/master/fpGrowth.py): FP growth with Python
