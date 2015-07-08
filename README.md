@@ -30,3 +30,6 @@ The Python codes here are modified based those in the book **'Machine Learning I
 
 * [regTree.py](https://github.com/xiaeryu/Machine-Learning/blob/master/regTree.py): regression tree with Python  
  Mainly discussed tree-based regression, the CART algorithm. Included are regressoin trees and model trees.
+
+
+* [apriori.py](https://github.com/xiaeryu/Machine-Learning/blob/master/apriori.py): Apriori for frequent itemset idetification and association analysis with Python
