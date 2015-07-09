@@ -36,3 +36,6 @@ The Python codes here are modified based those in the book **'Machine Learning I
 
 
 * [fpGrowth.py](https://github.com/xiaeryu/Machine-Learning/blob/master/fpGrowth.py): FP growth with Python
+
+
+* [pca.py](https://github.com/xiaeryu/Machine-Learning/blob/master/pca.py): PCA with Python
