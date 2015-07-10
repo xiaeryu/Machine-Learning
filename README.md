@@ -41,4 +41,4 @@ The Python codes here are modified based those in the book **'Machine Learning I
 * [pca.py](https://github.com/xiaeryu/Machine-Learning/blob/master/pca.py): PCA with Python
 
 
-*[svdRec.py](https://github.com/xiaeryu/Machine-Learning/blob/master/svdRec.py): Recommendation with or without SVD.
+* [svdRec.py](https://github.com/xiaeryu/Machine-Learning/blob/master/svdRec.py): Recommendation with or without SVD.
